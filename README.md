@@ -38,6 +38,3 @@ I'm a passionate fullstack developer who loves working on both frontend and back
 ### 📫 How to reach me:
 - **Email:** agesetiabudi16@gmail.com
 
-### ⚡ Fun fact:
-I'm a huge fan of open-source and love contributing to projects whenever I can!
-
