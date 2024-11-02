@@ -51,6 +51,6 @@
 <br />
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=agesetiabudi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="49%" height="195px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agesetiabudi&layout=compact&theme=radical&count_private=true" alt="Top Languages" width="400" height="195px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agesetiabudi&layout=compact&theme=radical&count_private=true" alt="Top Languages" width="400" height="185px" />
 </div>
 
