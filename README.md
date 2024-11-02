@@ -47,5 +47,10 @@
     <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" />
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   </div>
-  
 </div>
+<br />
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=agesetiabudi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="49%" height="195px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agesetiabudi&layout=compact&theme=radical&count_private=true" alt="Top Languages" width="400" height="195px" />
+</div>
+
