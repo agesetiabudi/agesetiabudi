@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/agesetiabudi/agesetiabudi/main/assets/banner.png" alt="Age SetiaBudi Banner" />
+</p>
+
 <div align="center">
   <h2>Hi 👋, I'm Age SetiaBudi</h2>
   <p align="left">I'm a passionate fullstack developer who loves working on both frontend and backend projects! I enjoy learning new technologies, experimenting with different frameworks, and finding creative solutions to complex problems.</p>
