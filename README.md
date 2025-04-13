@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/agesetiabudi/agesetiabudi/main/assets/banner.png" alt="Age SetiaBudi Banner" />
+    <img src="https://raw.githubusercontent.com/agesetiabudi/agesetiabudi/main/assets/banner.png" alt="Age SetiaBudi Banner" height="300" />
 </p>
 
 <div align="center">
