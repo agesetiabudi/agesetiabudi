@@ -44,12 +44,5 @@
   <img src="https://img.shields.io/badge/-YAML-cb171e?style=flat&logo=yaml&logoColor=white" />
 </div>
 
-<br />
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 60px;">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agesetiabudi&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
-
-</div>
 
 
